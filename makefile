@@ -4,3 +4,6 @@ md:
 install: md
 	cp md /usr/bin
 
+uninstall:
+	rm /usr/bin/md
+
